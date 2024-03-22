@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **carducci.federico20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rIIQFBwEnY7dJ15CYX5ISSTNkW40jgFW/view?usp=sharing](https://drive.google.com/file/d/1rIIQFBwEnY7dJ15CYX5ISSTNkW40jgFW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rIIQFBwEnY7dJ15CYX5ISSTNkW40jgFW/view?usp=sharing](CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
