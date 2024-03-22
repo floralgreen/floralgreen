@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico!</h1>
 <h3 align="center">I'm a young and enthusiastic developer, focusing my expertise on the intricacies of Java. With a genuine passion for technology in all its forms, I find myself particularly captivated by the endless possibilities within software development. My journey in this field is driven by a constant hunger to learn and innovate. I am actively seeking opportunities to apply my technical skills and contribute meaningfully to projects, all while nurturing my personal and professional growth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=floralgreen&label=Profile%20views&color=0e75b6&style=flat" alt="floralgreen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=floralgreen" alt="floralgreen" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Spring, SpringBoot, RESTAPIs, Python, SQL, HTML, CSS, JS**
 
 - 💬 Ask me about **Java, Spring, RESTAPIs, SQL**
@@ -15,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/federico carducci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico carducci" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carducci-federico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carducci-federico" height="30" width="40" /></a>
 <a href="https://instagram.com/@actiasluna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@actiasluna_" height="30" width="40" /></a>
 </p>
 
