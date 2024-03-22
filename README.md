@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico!</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h3 align="center">I'm a young and enthusiastic developer, focusing my expertise on the intricacies of Java. With a genuine passion for technology in all its forms, I find myself particularly captivated by the endless possibilities within software development. My journey in this field is driven by a constant hunger to learn and innovate. I am actively seeking opportunities to apply my technical skills and contribute meaningfully to projects, all while nurturing my personal and professional growth.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -28,3 +29,4 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=floralgreen&show_icons=true&locale=en" alt="floralgreen" /></p><br>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=floralgreen&" alt="floralgreen" /></p><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
