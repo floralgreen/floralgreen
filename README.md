@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [ITA CV](https://drive.google.com/file/d/11qLMkTtLPq-Uljz5w-DKmAdFLwt9PcN3/view?usp=sharing) | [ENG CV](https://drive.google.com/file/d/1qMYnPdieVko9QKV1yvY5peVTOTHYpIKm/view?usp=sharing)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carducci-federico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carducci-federico" height="30" width="40" /></a>
