@@ -39,13 +39,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-
-
-<img style="background-color: #0D1117;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=floralgreen&show_icons=true&locale=en&layout=compact" alt="floralgreen" /></p><br>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=floralgreen&show_icons=true&locale=en" alt="floralgreen" /></p><br>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=floralgreen&" alt="floralgreen" /></p><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
